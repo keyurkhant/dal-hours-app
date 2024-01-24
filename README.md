@@ -1,4 +1,4 @@
-# Dal-Hours | CSCI5193 - Skywalkers
+# Dal-Hours
 
 ## Introduction
 
